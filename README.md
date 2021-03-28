@@ -1,5 +1,3 @@
-# Because I have some assigments and midterm to do this week, I can't get continuous period to work on it. So this task takes longer than the expect time.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
