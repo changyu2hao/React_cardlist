@@ -1,6 +1,6 @@
 # React CardList
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The website displays students information from an API. Users can add different tags to students, and can also search by name or the tags.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). The website displays students information from an API. Users can add different tags to students, search by students' name and search by tags.
 ![Capture](https://user-images.githubusercontent.com/43207918/113341074-b751c200-92fa-11eb-9814-84d439266d80.PNG)
 
 ## Available Scripts
